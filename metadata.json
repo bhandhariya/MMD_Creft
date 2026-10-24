@@ -1,0 +1,6 @@
+{
+  "name": "MMD Craft | Futuristic 3D Manufacturing Studio",
+  "description": "Next-generation 3D-first manufacturing portal for precision laser-cut MDF, architectural acrylic panels, and sublimation blanks with interactive customizer and real-time WhatsApp specs ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,151 @@
+{
+  "factoryStats": {
+    "dailyCuttingCapacity": "12,500+ sq.ft",
+    "positionalAccuracy": "± 0.025 mm",
+    "averageDispatchTime": "24 - 48 Hours",
+    "activeLaserBeds": 6,
+    "activeCncRouters": 4,
+    "diamondPolishers": 2
+  },
+  "liveJobs": [
+    {
+      "id": "JOB-8942",
+      "machine": "CO2 Laser Bed #01 (150W)",
+      "jobName": "Multi-Layer Mandala 600mm Pine MDF (12-Tier)",
+      "material": "3.2mm Pine MDF Grade E1",
+      "progress": 78,
+      "status": "Cutting Layer 9/12",
+      "feedRate": "420 mm/min",
+      "laserPower": "88%",
+      "operator": "P. Sharma",
+      "batchSize": "40 Sets"
+    },
+    {
+      "id": "JOB-8943",
+      "machine": "5-Axis CNC Router Alpha (3000x2000mm)",
+      "jobName": "Architectural Wayfinding & 3D Reception Facade",
+      "material": "18mm High-Density MDF + 8mm Acrylic",
+      "progress": 92,
+      "status": "Diamond Bevel Finishing",
+      "feedRate": "2400 mm/min",
+      "laserPower": "Spindle: 19,200 RPM",
+      "operator": "K. Sengupta",
+      "batchSize": "12 Panels"
+    },
+    {
+      "id": "JOB-8944",
+      "machine": "Dual-Head Laser Bed #03",
+      "jobName": "Frosted Neon Acrylic Backer Plates with Standoffs",
+      "material": "4.5mm Cast PMMA Matte Ice",
+      "progress": 45,
+      "status": "Vector Piercing & Cut",
+      "feedRate": "680 mm/min",
+      "laserPower": "75%",
+      "operator": "R. Mehta",
+      "batchSize": "120 Units"
+    },
+    {
+      "id": "JOB-8945",
+      "machine": "Industrial UV Flatbed + Heat Cure",
+      "jobName": "High-Gloss Sublimation Ceramic-Polymer Hardboard",
+      "material": "5mm Hardboard Gloss White",
+      "progress": 64,
+      "status": "UV Glaze Polymerization",
+      "feedRate": "Curing Pass 3/4",
+      "laserPower": "UV Lamp 395nm",
+      "operator": "A. Verma",
+      "batchSize": "250 Units"
+    }
+  ],
+  "saleDrops": [
+    {
+      "id": "drop-01",
+      "title": "Factory Overrun: 12mm Master MDF Craft Rounds (450mm)",
+      "discount": "30% OFF",
+      "originalPrice": 22.00,
+      "salePrice": 15.40,
+      "unitsLeft": 18,
+      "badge": "Limited Batch",
+      "specs": "12mm Heavy-duty pine MDF with smooth edge radius. Ideal for clockmakers, resin artists, and layered wood carvers.",
+      "readyToShip": "Same Day Dispatch",
+      "whatsappNote": "I want to claim the Factory Overrun 12mm MDF Rounds at 30% OFF."
+    },
+    {
+      "id": "drop-02",
+      "title": "Cast Acrylic Offcut Designer Bundle (3mm & 5mm Mix)",
+      "discount": "40% OFF",
+      "originalPrice": 45.00,
+      "salePrice": 27.00,
+      "unitsLeft": 9,
+      "badge": "Maker Special",
+      "specs": "5kg assorted premium cast acrylic offcuts (Frosted, Neon Pink, Smoked Grey, Mirror Gold, Ultra-Clear). Laser-ready sheets.",
+      "readyToShip": "Same Day Dispatch",
+      "whatsappNote": "I want to claim the Acrylic Offcut Designer Bundle at 40% OFF."
+    },
+    {
+      "id": "drop-03",
+      "title": "Sublimation Coaster Super-Pack (100 Pcs + Stacking Holder)",
+      "discount": "25% OFF",
+      "originalPrice": 65.00,
+      "salePrice": 48.75,
+      "unitsLeft": 14,
+      "badge": "High Demand",
+      "specs": "100x square rounded-corner gloss white hardboard coasters + laser cut 5-tier MDF stacking rack.",
+      "readyToShip": "Ships in 24 Hours",
+      "whatsappNote": "I want to order the Sublimation Coaster Super-Pack with stacking holder at 25% OFF."
+    }
+  ],
+  "machinery": [
+    {
+      "name": "Heavy-Duty CO2 Laser System (130W - 150W)",
+      "highlight": "Precision Optical Path with Coaxial Air Assist",
+      "detail": "Vaporizes cast acrylic leaving crystal-clear polished cut edges with zero post-finishing required. Cuts MDF up to 18mm with negligible kerf taper.",
+      "specs": ["Working Area: 1600 x 1000 mm", "Beam Spot: 0.08 mm", "Speed: up to 800 mm/s", "Chilled Sealed CO2 Tube"]
+    },
+    {
+      "name": "5-Axis High-Speed CNC Machining Center",
+      "highlight": "Rigid Cast Iron Bed & Vacuum Hold-down",
+      "detail": "Handles deep pocketing, 3D topographical relief carving, chamfering, v-carve lettering, and thick composite panel routing with microscopic repeatability.",
+      "specs": ["Bed Size: 3000 x 2000 x 300 mm", "Spindle: 24,000 RPM HSD Ceramic", "Vacuum Pod Matrix: 16 Zones", "Tool Changer: 12-Slot Carousel"]
+    },
+    {
+      "name": "Automated Diamond Acrylic Edge Polisher",
+      "highlight": "Mono-Crystalline Natural Diamond Tooling",
+      "detail": "Eliminates hand sanding and torch flames. Passes acrylic blocks at controlled speed to generate true 99.8% optical transmission edge faces.",
+      "specs": ["Max Thickness: 55 mm", "Feed Angle: 0° to 60° Bevel", "Finish: Mirror Optical Clarity", "Dual Flywheel Stabilization"]
+    },
+    {
+      "name": "Thermal Sublimation Flatbed Calibration Press",
+      "highlight": "Microprocessor PID Dual-Platen Heating",
+      "detail": "Guarantees edge-to-edge heat uniformity within ±1°C across large 600x400mm format blanks to eliminate cold-edge dye fade.",
+      "specs": ["Platen Size: 600 x 400 mm", "Pressure: 8 Bar Pneumatic", "Max Temp: 250°C", "Even Pressure Distribution"]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What CAD/Vector file formats do you accept for custom orders?",
+      "a": "We accept DXF, SVG, AI (Adobe Illustrator), CDR (CorelDRAW), PDF (Vector), and DWG. Our pre-press engineering team automatically verifies your files for closed vectors and kerf compensation before cutting."
+    },
+    {
+      "q": "Can I order custom thicknesses or specific sheet dimensions?",
+      "a": "Yes! Use our 3D Customizer Studio to input any width and height up to 2400 x 1200 mm. We stock MDF in 2mm, 3.2mm, 5.5mm, 8mm, 12mm, and 18mm, and Acrylic in 2mm, 3mm, 4.5mm, 6mm, 8mm, 10mm, and 15mm."
+    },
+    {
+      "q": "How do you calculate bulk order discounts?",
+      "a": "Our automated tier pricing offers 10% off for 11-50 units, 20% off for 51-200 units, and factory direct contract rates for 200+ units. You can also request a customized quotation via the Bulk Enquiries modal or WhatsApp."
+    },
+    {
+      "q": "How does ordering via WhatsApp work?",
+      "a": "Click any 'Order via WhatsApp' button. Our app automatically compiles your exact specifications (product, material, custom thickness, dimensions, finish, quantity, and reference link) into a clean, ready-to-send WhatsApp chat with our engineering desk."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98765 43210",
+    "whatsappNumber": "919876543210",
+    "whatsappDisplay": "+91 98765 43210",
+    "email": "craft@mmdcrafts.com",
+    "factoryAddress": "MMD Precision Craft Works, Industrial Zone Phase 2, Laser Tech Park, New Delhi / NCR, India",
+    "operatingHours": "Mon - Sat: 08:30 - 20:00 IST",
+    "emergencyHotline": "Direct Engineering Support Available via WhatsApp"
+  }
+}
